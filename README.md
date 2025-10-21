@@ -1,9 +1,9 @@
 # 💫 About Me:
- I'm Manjunatha H B, an MCA student with a strong passion for software development, databases. I enjoy diving deep into code, building innovative projects, and collaborating on open-source work.
+ I'm Manjunatha H B, an MCA Graduated with a strong passion for software development, databases. I enjoy diving deep into code, building innovative projects, and collaborating on open-source work.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mxnjx_002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manjunatha-h-b-72b155287) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=sYXNb0eu42q08HbO) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manja_._02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manjunatha-h-b-72b155287) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=sYXNb0eu42q08HbO) 
 [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](https://technostorieshub.blogspot.com/) 
 
 # 💻 Tech Stack:
