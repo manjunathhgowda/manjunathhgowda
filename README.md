@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Manjunatha H B, an MCA Graduated with a strong passion for software development, databases. I enjoy diving deep into code, building innovative projects, and collaborating on open-source work.
+ I'm Manjunatha H B, an MCAGraduated with a strong passion for software development, databases. I enjoy diving deep into code, building innovative projects, and collaborating on open-source work.
 
 
 ## 🌐 Socials:
