@@ -87,17 +87,17 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manja_._02?igsh=MWY1MTZlcTA5aWUycw==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=3zvaoZexabqX6gLi)
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjunathhgowda&label=Profile%20Views&color=dd2476&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/manjunathhgowda?label=Followers&style=for-the-badge&color=ff512f&labelColor=0D1117" alt="Followers" />
-</p>
-
 <!-- Contribution Graph -->
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunathhgowda&custom_title=Manjunatha's%20Contribution%20Graph&bg_color=0D1117&color=dd2476&line=ff512f&point=ffffff&area_color=dd2476&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjunathhgowda&label=Profile%20Views&color=dd2476&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/manjunathhgowda?label=Followers&style=for-the-badge&color=ff512f&labelColor=0D1117" alt="Followers" />
 </p>
 
 ## 📞 Contact
@@ -108,4 +108,7 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 <!-- 🌈 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=140&section=footer" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=DD2476&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Feel+free+to+explore+my+repositories!;Let's+connect+and+collaborate!" alt="Footer Typing" />
+</p>
 </p>
