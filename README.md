@@ -1,118 +1,106 @@
 # 💫 About Me:
-👋 Hi, I'm **Manjunatha H B** – an MCA graduate from Acharya Institute of Technology with a **9.16 CGPA** and a passion for building intelligent, real-world solutions. I specialize in **AI/ML**, **full-stack development**, and **IoT systems**, with hands-on experience in face recognition, data analytics, and web applications.
+MCA graduate from Acharya Institute of Technology, Bangalore, with a **9.16 CGPA** and a strong foundation in **programming, scripting, and databases**. Experienced in **AI/ML applications, full-stack development, IoT systems, problem-solving, and version control**. Published researcher with expertise in face recognition and surveillance systems. Eager to apply technical skills and gain real-world experience in the tech industry. **1st place winner** in Binary Battle coding competition.
 
-🔭 **Currently working on:** AI-powered surveillance systems and carbon footprint analysis  
-🌱 **Learning:** Advanced computer vision techniques and cloud deployment  
-👯 **Open to collaborate on:** Open-source projects in Python, Flask, AI/ML, and IoT  
-💬 **Ask me about:** Face recognition, data visualization, SQL optimization, or building scalable web apps  
-📫 **Reach me at:** manjunathhgowda1432@gmail.com  
-⚡ **Fun fact:** I secured 1st place in "Binary Battle – Your Design Your Legacy" coding competition!
+🔗 **Portfolio:** [View My Work](https://github.com/manjunathhgowda)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manja_._02) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manjunatha-h-b-72b155287) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=sYXNb0eu42q08HbO) 
-[![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](https://technostorieshub.blogspot.com/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://github.com/manjunathhgowda)
+---
 
-# 💻 Tech Stack:
+## 💻 Technical Skills:
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Programming & Scripting:** Python, Java, C, C#
 
-### Web Development
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend, Framework & Libraries:** HTML, CSS, JavaScript, Flask, ASP.NET, Bootstrap
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Backend & Databases:** SQL, MySQL, Microsoft SQL Server, SQLite
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+**AI/ML & Computer Vision:** TensorFlow, Keras, OpenCV, MTCNN, FaceNet
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+**Data Science & Visualization:** NumPy, pandas, matplotlib, seaborn, plotly
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**IoT & Hardware:** ESP32, Arduino IDE, MQTT, Blynk
 
-# 🚀 Featured Projects:
+**Business & Productivity Tools:** MS Excel, MS PowerPoint, MS Word, Google Sheets, Google Docs, Google Slides
 
-### 🎯 [HostelVisionAI](https://github.com/manjunathhgowda) 
-*Smart Hostel Surveillance System with AI-powered Face Recognition*  
-- Achieved **95.83% accuracy** processing 500+ face images with **1.12s latency**
-- Technologies: Python, Flask, OpenCV, TensorFlow, MTCNN, FaceNet, SQLite
-- **Published Research** in European Journal of Applied Science, Engineering and Technology
+**Operating System & Platforms:** Windows, Linux
 
-### 🌍 [Carbon Footprint Tracker](https://github.com/manjunathhgowda)
-*Interactive Emission Analysis Dashboard*  
-- Analyzed 28 Indian states (2010-2024) tracking CO₂, CO, and CH₄ emissions
-- Technologies: Python, pandas, matplotlib, seaborn, plotly, Jupyter Notebook
+**Version Control & Collaboration:** Git, GitHub
 
-### 🌱 [IoT Air Pollution Monitor](https://github.com/manjunathhgowda)
-*Real-time Air Quality Monitoring System*  
-- Detected 7 gases with real-time visualization using MQ-135 & MQ-5 sensors
-- Technologies: ESP32, MQTT, Blynk, Arduino IDE, C/C++
+---
 
-### 💼 [Local Hire](https://github.com/manjunathhgowda)
-*Online Labor Hiring Web Application*  
-- Streamlined daily wage worker recruitment process
-- Technologies: ASP.NET, C#, Microsoft SQL Server, Bootstrap
+## 🚀 Projects:
 
-# 📊 GitHub Stats:
+### [HostelVisionAI: Smart Hostel Surveillance System](https://github.com/manjunathhgowda/HostelVisionAI)
+AI-powered surveillance system with automated attendance, visitor detection, and facial recognition-based geo-fencing. Achieved **95.83% accuracy** processing 500+ face images with **1.12s latency per face**.
+
+**Tech Stack:** Python, Flask, OpenCV, TensorFlow/Keras, SQLite, MTCNN, FaceNet, HTML, CSS, JavaScript
+
+### [Tracking Carbon Footprints Using Python](https://github.com/manjunathhgowda/Carbon-Footprint-Tracker)
+Interactive carbon emission dashboard analyzing CO₂, CO, and CH₄ emissions across 28 Indian states (2010-2024) with 10 dynamic visual insights.
+
+**Tech Stack:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, plotly
+
+### [IoT-Based Air Pollution Monitoring System](https://github.com/manjunathhgowda/IoT-Air-Quality-Monitor)
+Real-time air quality monitoring system detecting 7 gases using MQ-135 and MQ-5 sensors with live gauge visualization.
+
+**Tech Stack:** ESP32, MQ-135, MQ-5, MQTT, Blynk, C/C++, Arduino IDE
+
+### [Local Hire - Online Labor Hiring Web Application](https://github.com/manjunathhgowda/Local-Hire)
+Platform automating daily wage worker recruitment, reducing hiring costs and time for efficient workforce management.
+
+**Tech Stack:** ASP.NET, C#, Microsoft SQL Server, Bootstrap, HTML, CSS
+
+### [PhotoHub – Photo Search App](https://github.com/manjunathhgowda/PhotoHub)
+Web application leveraging Unsplash API to access 7.8M+ high-quality images with intuitive search functionality.
+
+**Tech Stack:** HTML, CSS, JavaScript, Unsplash API
+
+---
+
+## 📝 Research and Publications:
+
+**AI-Driven Hostel Monitoring System: Integrating Automated Attendance, Real-Time Visitor Detection, and Facial Recognition-Based Geo-Fencing**  
+*European Journal of Applied Science, Engineering and Technology (EJASET)*, Vol. 3, Issue 3, pp. 14–26, May–June 2025.
+
+📄 [Read Paper](https://doi.org/10.59324/ejaset.2025.3(3).02)
+
+---
+
+## 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjunatha-h-b-72b155287)
+[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://technostorieshub.blogspot.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/manjunathhgowda1432)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/manja_._02)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=sYXNb0eu42q08HbO)
+
+---
+
+## 📧 Contact:
+
+**Email:** [manjunathhgowda1432@gmail.com](mailto:manjunathhgowda1432@gmail.com)
+
+**Location:** Bengaluru, Karnataka, India
+
+---
+
+## 📊 GitHub Stats:
+
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=manjunathhgowda&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manjunathhgowda&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathhgowda&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjunathhgowda&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjunathhgowda&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathhgowda&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manjunathhgowda&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manjunathhgowda&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=manjunathhgowda&icon=5&color=6)](https://visitcount.itsvg.in)
 
-*"Building intelligent solutions, one commit at a time."* 🚀
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=manjunathhgowda&icon=5&color=6)
+
+**"Building intelligent solutions, one commit at a time."** 🚀
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manjunathhgowda&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manjunathhgowda&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathhgowda&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=manjunathhgowda&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
