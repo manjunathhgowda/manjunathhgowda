@@ -5,9 +5,7 @@
 
 ## 👨‍💻 About Me
 
-MCA graduate from **Acharya Institute of Technology, Bangalore**, with a strong foundation in **programming, scripting, databases, and AI applications**.  
-Experienced in **problem-solving, containerization, and version control**.  
-Passionate about **AI-driven projects, data analysis, IoT, and full-stack development**.
+MCA graduate from **Acharya Institute of Technology, Bangalore**, with a strong foundation in **programming, scripting, databases, and AI applications**. Experienced in **problem-solving,containerization, and version control**. Passionate about **AI-driven projects, data analysis, IoT, and full-stack development**.
 
 <!-- 🌈 Divider -->
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
