@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Manjunatha%20H%20B&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
-
+<hr>
 
 ## 👨‍💻 About Me
 
