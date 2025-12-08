@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Manjunatha%20H%20B&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -11,7 +10,6 @@ MCA graduate from **Acharya Institute of Technology, Bangalore**, with a strong 
 Experienced in **problem-solving, containerization, and version control**.  
 Passionate about **AI-driven projects, data analysis, IoT, and full-stack development**.
 
----
 
 <!-- 🌈 Divider -->
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
@@ -20,7 +18,6 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://manjunathahb.vercel.app/)
 
----
 
 ## 🛠️ Technical Skills
 
@@ -63,7 +60,6 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 📚 Projects
 
@@ -75,7 +71,6 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 | **Local Hire – Online Labor Hiring Web App** | https://github.com/manjunathhgowda/LOCALHIRE |
 | **PhotoHub – Photo Search App** | https://github.com/manjunathhgowda/PhotoHub |
 
----
 
 ## 📄 Research & Publications
 
@@ -83,7 +78,6 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 📘 *European Journal of Applied Science, Engineering and Technology (EJASET)*  
 🔗 **DOI:** https://doi.org/10.59324/ejaset.2025.3(3).02
 
----
 
 ## 🌐 Socials
 
@@ -93,13 +87,11 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manja_._02?igsh=MWY1MTZlcTA5aWUycw==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=3zvaoZexabqX6gLi)
 
----
 
 ## 📞 Contact
 
 📧 **Email:** `manjunathhgowda1432@gmail.com`
 
----
 
 <!-- 🌈 Footer Wave -->
 <p align="center">
