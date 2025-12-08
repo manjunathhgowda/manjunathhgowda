@@ -9,15 +9,15 @@
 [![Blogspot](https://img.shields.io/badge/Blogspot-%23FF5722.svg?logo=blogger&logoColor=white)](https://technostorieshub.blogspot.com/) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)](https://www.python.org)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+[![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)](https://www.python.org)  
-[![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manjunathhgowda&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
