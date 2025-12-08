@@ -2,14 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Manjunatha%20H%20B&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
 </p>
-<hr>
 
 ## 👨‍💻 About Me
 
 MCA graduate from **Acharya Institute of Technology, Bangalore**, with a strong foundation in **programming, scripting, databases, and AI applications**.  
 Experienced in **problem-solving, containerization, and version control**.  
 Passionate about **AI-driven projects, data analysis, IoT, and full-stack development**.
-
 
 <!-- 🌈 Divider -->
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
@@ -18,6 +16,8 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white)](https://manjunathahb.vercel.app/)
 
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
 
 ## 🛠️ Technical Skills
 
@@ -60,6 +60,8 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
 
 ## 📚 Projects
 
@@ -71,6 +73,8 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 | **Local Hire – Online Labor Hiring Web App** | https://github.com/manjunathhgowda/LOCALHIRE |
 | **PhotoHub – Photo Search App** | https://github.com/manjunathhgowda/PhotoHub |
 
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
 
 ## 📄 Research & Publications
 
@@ -78,6 +82,8 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 📘 *European Journal of Applied Science, Engineering and Technology (EJASET)*  
 🔗 **DOI:** https://doi.org/10.59324/ejaset.2025.3(3).02
 
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
 
 ## 🌐 Socials
 
@@ -86,6 +92,9 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/manjunathhgowda1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manja_._02?igsh=MWY1MTZlcTA5aWUycw==)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@manjunatha_h_gowda?si=3zvaoZexabqX6gLi)
+
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
 
 <!-- Contribution Graph -->
 ## 📈 Contribution Graph
@@ -100,10 +109,15 @@ Passionate about **AI-driven projects, data analysis, IoT, and full-stack develo
   <img src="https://img.shields.io/github/followers/manjunathhgowda?label=Followers&style=for-the-badge&color=ff512f&labelColor=0D1117" alt="Followers" />
 </p>
 
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
+
 ## 📞 Contact
 
 📧 **Email:** `manjunathhgowda1432@gmail.com`
 
+<!-- 🌈 Divider -->
+![divider](https://capsule-render.vercel.app/api?type=rect&height=1&color=0:ff512f,100:dd2476&section=footer)
 
 <!-- 🌈 Footer Wave -->
 <p align="center">
